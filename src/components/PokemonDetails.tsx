@@ -137,9 +137,13 @@ const styles = StyleSheet.create({
     fontSize: 22,
     fontWeight: 'bold',
     marginTop: 15,
+    color: '#000',
+    opacity: 0.7,
   },
   regular: {
     fontSize: 17,
+    color: '#000',
+    opacity: 0.7,
   },
   basicSprite: {
     width: 100,
